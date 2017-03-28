@@ -4,10 +4,16 @@ Off-treasury stipends for community members to start and maintain small-scale pr
 
 ### Overview
 
-Justify community contributor's time
-Offload small projects from MNOs
-Promote decentralization
-Prepare future Core candidates
+A challenge is emerging in the dash ecosystem.  Dash's treasury is getting larger, more funds are becoming available for Dash to expand, and more people are becoming interesed in working for Dash.  This is putting more and more pressure on masternode owners to effectively evaluate proposals, and the Core development team to hire and manage people.  
+
+Because Dash is such an exciting project, many people are scaling back their 'day jobs' as their interest grows.  They are spending a lot of time promoting Dash in various ways, but aren't getting compensated for it in a sustainable way.  
+
+This project is a further step towards solving these challenges. Specifically, this project seeks to: 
+
+* justify community contributor's time
+* offload small projects from MNOs
+* promote decentralization
+* potentially prepare individuals to work within the Core team
 
 ### Scope
 
