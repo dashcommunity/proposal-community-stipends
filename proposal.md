@@ -1,98 +1,90 @@
+# Proposal - Community Stipends
 
-###### Usage & Content
-* Follow this [proposal guide](https://github.com/dashcommunity/guides/blob/master/create_proposal_from_template.md) to use this template
-* Example content is hypothetical simple project
-
-# Proposal Template - Simple
-
-###### Description
-Provide a brief three- to ten-word tagline that summarizes your project 
-
-###### Example
-Donate a masternode to Roger Ver
+Off-treasury stipends for community members to start and maintain small-scale projects
 
 ### Overview
 
-###### Description
-Summarize the proposal in narrative form, anywhere from a few sentances to a few paragraphs.  Provide background and context related to the need and motivation for your project.  
-
-Include a brief high-level overview of your scope, schedule, and budget as the final paragraph of this section.
-
-###### Example
-Roger Ver is one of the most influencial voices in the cryptocurrency space.  What would happen if we donated a masternode to him to try out?
+Justify community contributor's time
+Offload small projects from MNOs
+Promote decentralization
+Prepare future Core candidates
 
 ### Scope
 
-###### Description
-This section answers the question *what are you providing*, in narrative form.
+The scope of work involves vetting and funding several small, low-risk projects such as meetup groups, community-driven coding projects, etc.  Funded projects will have their own, separate scopes of work.  Examples of projects that might fit withing this program might include:
 
-###### Example
-Let's give Roger Ver a mastenode, and ask for an AMA in return.  This is a bold marketing move.  So bold it just might work.  We need to get a hold of Roger, tell him we want to give him a masternode in exchange for some of his time to help him set it up, try it's features, and hold a public AMA.  The address I have provided on this proposal is owned by Dash Escrow, Inc.  Here is their [cyrptographically signed message](dummylink) proving so.  Dash Escrow has been informed of this proposal and will forward the 1,000 DASH to Roger if it passes. 
+* Ongoing meetups
+* Video tutorials
+* Regular blog / vlog / podcast
+* Small software projects
+* Merchant on-boarding
+
+Nine of this month's (March 2017) proposals might fit well within this program.
 
 ##### Deliverables
 
-###### Description
-This section provides firm items that you will deliver.
-
-1. Deliverable 1
-2. Deliverable 2
-3. Deliverable 3
-
-###### Example
-
-1. Cryptographic signed message from Dash Escrow 
-2. Cryptographic signed message from Roger Ver
-  * Will obtain this pending feedback from the community and MNO votes
-  * Message will be him agreeing to accept our gift of a an AMA in return for a masternode
+* Admin
+1. Request for (off-treasury) proposals
+2. Proof of payment to RFP winners
+3. End-of-term results report
+* RFP winners
+1. Project proposals (using this format)
+2. Own respective project deliverables
 
 ### Schedule
 
-###### Description
-This section answers the question *when will you complete key milestones*.  
+This proposal seeks funding for a two-month trial period.  An RFP will kick things off.  Three proposals will be approved to commence work.  Deliverables will depend on approved projects.
 
-###### Example
+##### Milestones
 
-* **Deliverable 1** (Dash Escrow signed message):  **done**
-* **Deliverable 2** (Roger's signed message): will be **obtained 10 days prior to the voting** deadline. 
+Target milestones are as follows:
+
+* 2017-04-05 - Superblock payout
+* 2017-04-07 - Request for (off-treasury) proposal
+* 2017-04-14 - Proposal submission deadline
+* 2017-04-21 - Admin approves subcontractors, commence work
+* 2017-05-19 - Subcontractors report to admin w/complete SOWs
+* 2017-05-26 - Admin reports to MNOs/community
+
+Depending on feedback, renew this charter w/ treasury proposal
 
 ### Budget
 
-###### Description
-This section answers the question *how much will it cost*, in narrative form.  
+The project is initially targeting a budget of 30 DASH/month for two (2) months, for a total of 60 DASH
+Cost Items
 
-Included here would be a description of what kinds of resources are needed to accomplish your project's deliverables and milestones.  
+Subcontracts - stipends to (3) proposals
+Admin - expenses to administer the project
+Service fees (slides, meetup, etc) + contingency
+Proposal reimbursement
+Summary
 
-###### Example
+This project introduces subcontracting relationships to Dash.  This serves contractors, masternode operators, and the community as a whole
 
-The cost to try this crazy experiment are shown in table 1 below.
+
+### Budget
+
+The project is targeting a budget of 30 DASH/month for two (2) months, for a total of 60 DASH
 
 ##### Itemized Costs
 
-###### Description
-This section provides itemized costs, in tabular form
-
 ###### Table 1 - Total Costs Requested
-|   Item        |    Cost   |   Units  |                       Comment                        |
-|---------------|:---------:|:--------:|------------------------------------------------------|
-| Masternode    |   1,000   |    DASH  | He'll love it, and will never go back to bitcoin :)  |
-| My time       |      25   |    DASH  | Coordination w/ Ver and reporting to community       |
-| Proposal fee  |       5   |    DASH  | Reimburse fee to submit this proposal                |
-| **Total**     | **1,030** | **DASH** |                                                      |
+|   Item                  |  Cost   |   Units  |       Comment                        |
+|-------------------------|:-------:|:--------:|--------------------------------------|
+| Admin                   |    30   |    DASH  | See note 1                           |
+| Subcontracts            |    20   |    DASH  | 10 DASH/mo for (2) months            |
+| Services & Contingency  |     5   |    DASH  | See note 2                           |
+| Proposal fee            |     5   |    DASH  | Reimburse fee to submit this proposal|
+| **Total**               | **60**  | **DASH** |                                      |
+
+1. 10 DASH stipends to three (3) most compelling proposals, ~1 month of work
+2. 6-month subscription to slides.com premium, meetup.com fees, etc. for community use + contingency (tipping, unforeseen expenses, etc)
 
 ##### Terms
 
-###### Description
-This section answers the question *how much are you requesting over what time period*
-
-Now that you know your total schedule and budget, you can divide the cost accordingly.  If the total time required is 2 months and the total budget requested is 100 DASH, schedule your payment terms as **50 DASH per month** for **2 months**
-
-###### Example
-I am requesting a **single one-time payment of 1,030 DASH**  to accomplish this. 
+* 30 DASH/month
+* 2 months
 
 ### Closing
 
-###### Description
-This section provides your closing statements
-
-###### Example
-This might be a horrible idea, but that's not up to me to decide, but rather, the masternodes.  I hope it gets funded.  I will make sure Roger is taken care of if it does.
+This project will introduce subcontracting relationships to Dash.  This serves contractors, masternode operators, and the community as a whole.  This provides a way to scale Dash's workforce in a decentrized manner, relieving burdens off of contractors, masternode operators, and the Core team.
