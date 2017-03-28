@@ -63,8 +63,8 @@ The project is targeting a budget of 30 DASH/month for two (2) months, for a tot
 ###### Table 1 - Total Costs Requested
 |   Item                  |  Cost   |   Units  |       Comment                        |
 |-------------------------|:-------:|:--------:|--------------------------------------|
-| Admin                   |    30   |    DASH  | See note 1                           |
-| Subcontracts            |    20   |    DASH  | 10 DASH/mo for (2) months            |
+| Subcontracts            |    30   |    DASH  | See note 1                           |
+| Admin                   |    20   |    DASH  | 10 DASH/mo for (2) months            |
 | Services & Contingency  |     5   |    DASH  | See note 2                           |
 | Proposal fee            |     5   |    DASH  | Reimburse fee to submit this proposal|
 | **Total**               | **60**  | **DASH** |                                      |
