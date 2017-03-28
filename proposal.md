@@ -8,24 +8,24 @@ A challenge is emerging in the dash ecosystem.  Dash's treasury is getting large
 
 Because Dash is such an exciting project, many people are scaling back their 'day jobs' as their interest grows.  They are spending a lot of time promoting Dash in various ways, but aren't getting compensated for it in a sustainable way.  
 
-This project is a further step towards solving these challenges. Specifically, this project seeks to: 
+This project is a further step towards solving these challenges. Specifically, this project proposes to give out stipends to motivated individuals who wish to start and/or maintain small-scale projects for the Dash community. The result will:
 
 * justify community contributor's time
-* offload small projects from MNOs
+* offload small projects from treasury/MNOs
 * promote decentralization
 * potentially prepare individuals to work within the Core team
 
 ### Scope
 
-The scope of work involves vetting and funding several small, low-risk projects such as meetup groups, community-driven coding projects, etc.  Funded projects will have their own, separate scopes of work.  Examples of projects that might fit withing this program might include:
+The scope of work involves vetting and funding several small, low-risk projects such as meetup groups, community-driven coding projects, etc.  Funded projects will have their own, separate scopes of work.  Examples of projects that might fit within this program might include:
 
 * Ongoing meetups
 * Video tutorials
-* Regular blog / vlog / podcast
+* Regular blogs, vlogs, or podcasts
 * Small software projects
 * Merchant on-boarding
 
-Nine of this month's (March 2017) proposals might fit well within this program.
+Nine of this month's (March 2017) proposals might have been a good fit for this program.
 
 ##### Deliverables
 
@@ -39,7 +39,7 @@ Nine of this month's (March 2017) proposals might fit well within this program.
 
 ### Schedule
 
-This proposal seeks funding for a two-month trial period.  An RFP will kick things off.  Three proposals will be approved to commence work.  Deliverables will depend on approved projects.
+This proposal seeks funding for a two-month trial period.  An RFP (request for proposals) will kick things off.  Three proposals will be approved to commence work.  Additional deliverables will depend on approved projects.
 
 ##### Milestones
 
@@ -52,21 +52,7 @@ Target milestones are as follows:
 * 2017-05-19 - Subcontractors report to admin w/complete SOWs
 * 2017-05-26 - Admin reports to MNOs/community
 
-Depending on feedback, renew this charter w/ treasury proposal
-
-### Budget
-
-The project is initially targeting a budget of 30 DASH/month for two (2) months, for a total of 60 DASH
-Cost Items
-
-Subcontracts - stipends to (3) proposals
-Admin - expenses to administer the project
-Service fees (slides, meetup, etc) + contingency
-Proposal reimbursement
-Summary
-
-This project introduces subcontracting relationships to Dash.  This serves contractors, masternode operators, and the community as a whole
-
+Depending on feedback, we will renew this charter with another treasury proposal.
 
 ### Budget
 
