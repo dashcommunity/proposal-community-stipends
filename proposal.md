@@ -16,12 +16,12 @@ There is currently a proposal to lower the proposal submission fee from 5 DASH t
 ##### Summary
 This project is a step towards solving the above challenges.  **We propose a program to fund several relatively small "off-treasury" projects**.  This will allow community members to start and/or maintain such projects without having to submit proposals to the treasury, which would be too costly, risky, and burdensome for both contributors and masternode operators to justify, considering the small scopes of work.  This will facilitate treasury scaling in a healthy (more decentralized) way.  Specifically this will:
 
-* alleviate the high proposal fee issue
-* lower masternode owner burden
-* improve contractor accountability
-* justify grassroots community contribution
-* promote decentralization
-* potentially prepare individuals to work within the Core team
+* Alleviate the high proposal fee issue
+* Lower masternode owner burden
+* Improve contractor accountability
+* Justify grassroots community contribution
+* Promote decentralization
+* Prepare individuals to potentially work within the Core team
 
 ### Scope
 
@@ -77,7 +77,7 @@ The project is targeting a budget of 30 DASH/month for two (2) months, for a tot
 | Proposal fee            |     5   |    DASH  | Reimburse fee to submit this proposal|
 | **Total**               | **100** | **DASH** | **50 DASH/month for (2) months**     |
 
-2. 6-month subscription to slides.com premium, meetup.com fees, etc. for community use + contingency (tipping, unforeseen expenses, etc)
+1. 6-month subscription to slides.com premium, meetup.com fees, etc. for community use + contingency (tipping, unforeseen expenses, etc)
 
 ##### Terms
 
