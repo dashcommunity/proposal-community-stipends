@@ -4,6 +4,11 @@ Off-treasury stipends for community members to start and maintain small-scale pr
 
 ### Overview
 
+##### Summary
+* Stipends for (7) community members (2 admin + 5 subcontracts) to perform their own custom off-treasury initiatives.
+* Pilot program will last (2) months, see milestones below
+* Asking for 50 DASH/month for two (2) months, see cost table below
+
 ##### Background
 Dash is an exciting project.  Many people are scaling back their 'day jobs' as their interest grows.  They are spending a lot of time promoting Dash in various ways, but aren't getting compensated for it in a sustainable way.  They could potentially get paid through the treasury, but **the costs and risks are too high for the average contributor to feel comfortable submitting a proposal** to the treasury to financially sustain their efforts. 
 
@@ -13,7 +18,7 @@ Dash's price increase, while causing the challenge above, has also made Dash's t
 
 There is currently a proposal to lower the proposal submission fee from 5 DASH to 1 DASH.  I support this effort.  If and when it is passed we will be faced with a different set of scaling issues.  **A low proposal fee with a very large budget will almost certainly lead to more (too many) proposals hitting the network**.  Masternode operators will have less time for each proposal.  They may just accept or reject proposal without thoroughly reviewing them, or they may stop reviewing and voting altogether.  When proposals do pass it will be even more difficult than it already is to hold contractors responsible for their promised deliverables.
 
-##### Summary
+##### Motivation & Solution
 This project is a step towards solving the above challenges.  **We propose a program to fund several relatively small "off-treasury" projects**.  This will allow community members to start and/or maintain such projects without having to submit proposals to the treasury, which would be too costly, risky, and burdensome for both contributors and masternode operators to justify, considering the small scopes of work.  This will facilitate treasury scaling in a healthy (more decentralized) way.  Specifically this will:
 
 * Alleviate the high proposal fee issue
@@ -64,7 +69,7 @@ Depending on feedback, we will renew this charter with another treasury proposal
 
 ### Budget
 
-The project is targeting a budget of 30 DASH/month for two (2) months, for a total of 60 DASH
+The project is targeting a budget of 50 DASH/month for two (2) months, for a total of 100 DASH
 
 ##### Itemized Costs
 
