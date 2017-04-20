@@ -5,7 +5,7 @@ Off-treasury stipends for community members to start and maintain small-scale pr
 ### Overview
 
 ##### Summary
-* Stipends for (7) community members (2 admin + 5 subcontracts) to perform their own custom off-treasury initiatives.
+* Stipends for (7) dashers (2 admin + 5 subcontractors) to perform custom off-treasury initiatives.
 * Pilot program will last (2) months, see milestones below
 * Asking for 50 DASH/month for two (2) months, see cost table below
 
